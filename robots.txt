@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucasp91.github.io/sitemap.xml
+Sitemap: https://lucasp91.github.io/website-portfolio/sitemap.xml
